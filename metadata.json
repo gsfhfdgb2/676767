@@ -1,0 +1,6 @@
+{
+  "name": "Subject 67 - 3D Horror Survival",
+  "description": "First-person realistic 3D horror game. Explore the abandoned research facility, evade Subject 67, gather critical reactor elements, and trigger the building self-destruction sequence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
